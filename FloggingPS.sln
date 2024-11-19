@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flogging.Core", "Flogging.Core\Flogging.Core.csproj", "{2F67ABFE-5F4C-40A1-9A5A-88CC1A8223DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloggingConsole", "FloggingConsole\FloggingConsole.csproj", "{2A5A6FB4-F08E-4705-90FA-0DB4A10218A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2F67ABFE-5F4C-40A1-9A5A-88CC1A8223DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F67ABFE-5F4C-40A1-9A5A-88CC1A8223DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F67ABFE-5F4C-40A1-9A5A-88CC1A8223DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A5A6FB4-F08E-4705-90FA-0DB4A10218A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5A6FB4-F08E-4705-90FA-0DB4A10218A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5A6FB4-F08E-4705-90FA-0DB4A10218A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5A6FB4-F08E-4705-90FA-0DB4A10218A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
