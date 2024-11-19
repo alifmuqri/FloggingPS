@@ -53,7 +53,7 @@ namespace Flogging.Core
 
         public static void WriteDiagnostic(FlogDetail infoToLog)
         {
-            var writeDiagnostics = Convert.ToBoolean(ConfigurationManager.AppSettings["EnableDiagnostic"]);
+            var writeDiagnostics = Convert.ToBoolean(ConfigurationManager.AppSettings["EnableDiagnostics"]);
             if (!writeDiagnostics)
                 return;
 
